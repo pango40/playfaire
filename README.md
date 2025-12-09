@@ -2,7 +2,7 @@ How to work 🤍👌🤗☠️
 
  pkg update & upgrade 
 
-git clone 
+git clone https://github.com/pango40/playfaire.git
 
 chmod +x playfaire
 
