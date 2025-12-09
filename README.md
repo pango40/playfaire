@@ -4,8 +4,8 @@ How to work 🤍👌🤗☠️
 
 git clone https://github.com/pango40/playfaire.git
 
-chmod +x playfaire
-
 cd playfaire
+
+chmod +x playfaire.py
 
 python playfaire.py
